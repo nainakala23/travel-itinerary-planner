@@ -1,0 +1,1170 @@
+[
+  {
+    "id": "9eb8f1af-0883-42c0-aad0-64f98edc4471",
+    "title": "Romantic Escape: Paris for Two",
+    "destination": "Paris",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-14",
+    "total_days": 5,
+    "traveler_type": "couple",
+    "group_size": 2,
+    "budget_tier": "luxury",
+    "pace": "relaxed",
+    "interests": [
+      "Romance",
+      "Food & Dining",
+      "Culture & History",
+      "Scenic Views"
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-11-10",
+        "theme": "Arrival, Sunset Stroll & Candlelight Dinner",
+        "morning": [
+          {
+            "id": "28dd40b7",
+            "time_slot": "morning",
+            "title": "Eiffel Tower & Champ de Mars",
+            "description": "Iconic iron tower with panoramic city vistas",
+            "location": "7th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 87.5,
+            "duration_hours": 2.5,
+            "travel_tip": "Arrive early morning to beat the queues"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "73d0ff97",
+            "time_slot": "afternoon",
+            "title": "Louvre Museum",
+            "description": "World-renowned museum housing the Mona Lisa and Venus de Milo",
+            "location": "1st Arrondissement",
+            "category": "culture",
+            "estimated_cost": 55.0,
+            "duration_hours": 3.0,
+            "travel_tip": "Pre-book timed entry ticket online"
+          }
+        ],
+        "evening": [
+          {
+            "id": "cd5dbd9e",
+            "time_slot": "evening",
+            "title": "Montmartre & Sacré-Cœur",
+            "description": "Charming hilltop artistic district with cobblestone streets",
+            "location": "18th Arrondissement",
+            "category": "culture",
+            "estimated_cost": 0.0,
+            "duration_hours": 1.5,
+            "travel_tip": "Watch out for street portrait artists and take the funicular"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Le Comptoir du Relais",
+            "cuisine": "Classic French Bistro",
+            "price_range": "$$",
+            "description": "Atmospheric Saint-Germain bistro renowned for seasonal charcuterie & duck confit",
+            "recommended_dish": "Duck Confit with Crispy Potatoes",
+            "meal_type": "dinner"
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "cuisine": "Artisan Parisian Bakery",
+            "price_range": "$",
+            "description": "Historic 1875 bakery famous for escargot pastries and crusty sourdough",
+            "recommended_dish": "Pistachio & Chocolate Escargot Viennoiserie",
+            "meal_type": "breakfast"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Hôtel Plaza Athénée",
+          "type": "5-Star Luxury Palace",
+          "neighborhood": "Avenue Montaigne",
+          "nightly_rate_est": 750.0,
+          "features": [
+            "Eiffel Tower view balconies",
+            "Haute cuisine",
+            "Dior Spa"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 1260.0
+      },
+      {
+        "day_number": 2,
+        "date": "2026-11-11",
+        "theme": "Scenic Panoramas, Hidden Courtyards & Wine Tasting",
+        "morning": [
+          {
+            "id": "39ee66ae",
+            "time_slot": "morning",
+            "title": "Musée d'Orsay",
+            "description": "Impressionist masterpiece collection housed in a beaux-arts railway station",
+            "location": "7th Arrondissement",
+            "category": "culture",
+            "estimated_cost": 45.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Check out the giant station clock face view"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "0b43bcd6",
+            "time_slot": "afternoon",
+            "title": "Seine River Cruise",
+            "description": "Relaxing twilight glass-canopy boat ride along iconic bridges",
+            "location": "Pont Neuf",
+            "category": "leisure",
+            "estimated_cost": 50.0,
+            "duration_hours": 3.0,
+            "travel_tip": "Ideal right at dusk for the hourly Eiffel sparkle"
+          }
+        ],
+        "evening": [
+          {
+            "id": "abdf8560",
+            "time_slot": "evening",
+            "title": "Le Marais Historic Walk",
+            "description": "Trendy district of aristocratic mansions, boutiques, and bakeries",
+            "location": "4th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 0.0,
+            "duration_hours": 1.5,
+            "travel_tip": "Stop for fresh falafel at L'As du Fallafel"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Chez Janou",
+            "cuisine": "Provençal Bistro",
+            "price_range": "$$",
+            "description": "Vibrant spot near Place des Vosges serving unlimited chocolate mousse",
+            "recommended_dish": "Herb-crusted Rack of Lamb & Chocolate Mousse",
+            "meal_type": "lunch"
+          },
+          {
+            "name": "Le Jules Verne",
+            "cuisine": "Haute French Gastronomy",
+            "price_range": "$$$$",
+            "description": "Michelin-starred dining on the second tier of the Eiffel Tower",
+            "recommended_dish": "Langoustine & Truffled Foie Gras",
+            "meal_type": "dinner"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Hôtel Plaza Athénée",
+          "type": "5-Star Luxury Palace",
+          "neighborhood": "Avenue Montaigne",
+          "nightly_rate_est": 750.0,
+          "features": [
+            "Eiffel Tower view balconies",
+            "Haute cuisine",
+            "Dior Spa"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 1165.0
+      },
+      {
+        "day_number": 3,
+        "date": "2026-11-12",
+        "theme": "Intimate Cultural Highlights & Rooftop Skyline Views",
+        "morning": [
+          {
+            "id": "c3878979",
+            "time_slot": "morning",
+            "title": "Sainte-Chapelle & Conciergerie",
+            "description": "Stunning 13th-century Gothic chapel with radiant stained glass",
+            "location": "Île de la Cité",
+            "category": "culture",
+            "estimated_cost": 37.5,
+            "duration_hours": 2.5,
+            "travel_tip": "Visit on a sunny day for breathtaking light rays"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "ce896900",
+            "time_slot": "afternoon",
+            "title": "Eiffel Tower & Champ de Mars",
+            "description": "Iconic iron tower with panoramic city vistas",
+            "location": "7th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 87.5,
+            "duration_hours": 3.0,
+            "travel_tip": "Arrive early morning to beat the queues"
+          }
+        ],
+        "evening": [
+          {
+            "id": "2c7b63c4",
+            "time_slot": "evening",
+            "title": "Louvre Museum",
+            "description": "World-renowned museum housing the Mona Lisa and Venus de Milo",
+            "location": "1st Arrondissement",
+            "category": "culture",
+            "estimated_cost": 55.0,
+            "duration_hours": 1.5,
+            "travel_tip": "Pre-book timed entry ticket online"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Le Comptoir du Relais",
+            "cuisine": "Classic French Bistro",
+            "price_range": "$$",
+            "description": "Atmospheric Saint-Germain bistro renowned for seasonal charcuterie & duck confit",
+            "recommended_dish": "Duck Confit with Crispy Potatoes",
+            "meal_type": "dinner"
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "cuisine": "Artisan Parisian Bakery",
+            "price_range": "$",
+            "description": "Historic 1875 bakery famous for escargot pastries and crusty sourdough",
+            "recommended_dish": "Pistachio & Chocolate Escargot Viennoiserie",
+            "meal_type": "breakfast"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Hôtel Plaza Athénée",
+          "type": "5-Star Luxury Palace",
+          "neighborhood": "Avenue Montaigne",
+          "nightly_rate_est": 750.0,
+          "features": [
+            "Eiffel Tower view balconies",
+            "Haute cuisine",
+            "Dior Spa"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 1335.0
+      },
+      {
+        "day_number": 4,
+        "date": "2026-11-13",
+        "theme": "Artisan Markets & Leisurely Couples Spa",
+        "morning": [
+          {
+            "id": "c628e7d2",
+            "time_slot": "morning",
+            "title": "Montmartre & Sacré-Cœur",
+            "description": "Charming hilltop artistic district with cobblestone streets",
+            "location": "18th Arrondissement",
+            "category": "culture",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Watch out for street portrait artists and take the funicular"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "279e479f",
+            "time_slot": "afternoon",
+            "title": "Musée d'Orsay",
+            "description": "Impressionist masterpiece collection housed in a beaux-arts railway station",
+            "location": "7th Arrondissement",
+            "category": "culture",
+            "estimated_cost": 45.0,
+            "duration_hours": 3.0,
+            "travel_tip": "Check out the giant station clock face view"
+          }
+        ],
+        "evening": [
+          {
+            "id": "694abff2",
+            "time_slot": "evening",
+            "title": "Seine River Cruise",
+            "description": "Relaxing twilight glass-canopy boat ride along iconic bridges",
+            "location": "Pont Neuf",
+            "category": "leisure",
+            "estimated_cost": 50.0,
+            "duration_hours": 1.5,
+            "travel_tip": "Ideal right at dusk for the hourly Eiffel sparkle"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Chez Janou",
+            "cuisine": "Provençal Bistro",
+            "price_range": "$$",
+            "description": "Vibrant spot near Place des Vosges serving unlimited chocolate mousse",
+            "recommended_dish": "Herb-crusted Rack of Lamb & Chocolate Mousse",
+            "meal_type": "lunch"
+          },
+          {
+            "name": "Le Jules Verne",
+            "cuisine": "Haute French Gastronomy",
+            "price_range": "$$$$",
+            "description": "Michelin-starred dining on the second tier of the Eiffel Tower",
+            "recommended_dish": "Langoustine & Truffled Foie Gras",
+            "meal_type": "dinner"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Hôtel Plaza Athénée",
+          "type": "5-Star Luxury Palace",
+          "neighborhood": "Avenue Montaigne",
+          "nightly_rate_est": 750.0,
+          "features": [
+            "Eiffel Tower view balconies",
+            "Haute cuisine",
+            "Dior Spa"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 1165.0
+      },
+      {
+        "day_number": 5,
+        "date": "2026-11-14",
+        "theme": "Arrival, Sunset Stroll & Candlelight Dinner",
+        "morning": [
+          {
+            "id": "44ca9fb2",
+            "time_slot": "morning",
+            "title": "Le Marais Historic Walk",
+            "description": "Trendy district of aristocratic mansions, boutiques, and bakeries",
+            "location": "4th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Stop for fresh falafel at L'As du Fallafel"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "0f2a17bf",
+            "time_slot": "afternoon",
+            "title": "Sainte-Chapelle & Conciergerie",
+            "description": "Stunning 13th-century Gothic chapel with radiant stained glass",
+            "location": "Île de la Cité",
+            "category": "culture",
+            "estimated_cost": 37.5,
+            "duration_hours": 3.0,
+            "travel_tip": "Visit on a sunny day for breathtaking light rays"
+          }
+        ],
+        "evening": [
+          {
+            "id": "4f8c8210",
+            "time_slot": "evening",
+            "title": "Eiffel Tower & Champ de Mars",
+            "description": "Iconic iron tower with panoramic city vistas",
+            "location": "7th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 87.5,
+            "duration_hours": 1.5,
+            "travel_tip": "Arrive early morning to beat the queues"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Le Comptoir du Relais",
+            "cuisine": "Classic French Bistro",
+            "price_range": "$$",
+            "description": "Atmospheric Saint-Germain bistro renowned for seasonal charcuterie & duck confit",
+            "recommended_dish": "Duck Confit with Crispy Potatoes",
+            "meal_type": "dinner"
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "cuisine": "Artisan Parisian Bakery",
+            "price_range": "$",
+            "description": "Historic 1875 bakery famous for escargot pastries and crusty sourdough",
+            "recommended_dish": "Pistachio & Chocolate Escargot Viennoiserie",
+            "meal_type": "breakfast"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Hôtel Plaza Athénée",
+          "type": "5-Star Luxury Palace",
+          "neighborhood": "Avenue Montaigne",
+          "nightly_rate_est": 750.0,
+          "features": [
+            "Eiffel Tower view balconies",
+            "Haute cuisine",
+            "Dior Spa"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 1225.0
+      }
+    ],
+    "cost_breakdown": {
+      "accommodations": 3750.0,
+      "dining": 1125.0,
+      "activities": 1275.0,
+      "local_transit": 375.0,
+      "total": 6525.0,
+      "currency": "USD"
+    },
+    "status": "saved",
+    "created_at": "2026-10-28T15:16:35.150221",
+    "updated_at": "2026-10-28T15:16:35.150238"
+  },
+  {
+    "id": "5e3c36ce-6c35-400c-9888-1b5677652f8f",
+    "title": "Solo Explorer: Paris Weekend Getaway",
+    "destination": "Paris",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-08",
+    "total_days": 3,
+    "traveler_type": "solo",
+    "group_size": 1,
+    "budget_tier": "budget",
+    "pace": "fast-paced",
+    "interests": [
+      "Sightseeing",
+      "Food & Dining",
+      "Photography"
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-11-06",
+        "theme": "Quick Highlights & Top Must-See Sightseeing",
+        "morning": [
+          {
+            "id": "eef8d6a5",
+            "time_slot": "morning",
+            "title": "Eiffel Tower & Champ de Mars",
+            "description": "Iconic iron tower with panoramic city vistas",
+            "location": "7th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 22.75,
+            "duration_hours": 2.0,
+            "travel_tip": "Arrive early morning to beat the queues"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "a7b58657",
+            "time_slot": "afternoon",
+            "title": "Louvre Museum",
+            "description": "World-renowned museum housing the Mona Lisa and Venus de Milo",
+            "location": "1st Arrondissement",
+            "category": "culture",
+            "estimated_cost": 14.3,
+            "duration_hours": 2.0,
+            "travel_tip": "Pre-book timed entry ticket online"
+          }
+        ],
+        "evening": [
+          {
+            "id": "b4706dbc",
+            "time_slot": "evening",
+            "title": "Montmartre & Sacré-Cœur",
+            "description": "Charming hilltop artistic district with cobblestone streets",
+            "location": "18th Arrondissement",
+            "category": "culture",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Watch out for street portrait artists and take the funicular"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Le Comptoir du Relais",
+            "cuisine": "Classic French Bistro",
+            "price_range": "$$",
+            "description": "Atmospheric Saint-Germain bistro renowned for seasonal charcuterie & duck confit",
+            "recommended_dish": "Duck Confit with Crispy Potatoes",
+            "meal_type": "dinner"
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "cuisine": "Artisan Parisian Bakery",
+            "price_range": "$",
+            "description": "Historic 1875 bakery famous for escargot pastries and crusty sourdough",
+            "recommended_dish": "Pistachio & Chocolate Escargot Viennoiserie",
+            "meal_type": "breakfast"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Generator Paris Hostel & Suites",
+          "type": "Boutique Designer Hostel",
+          "neighborhood": "Canal Saint-Martin",
+          "nightly_rate_est": 65.0,
+          "features": [
+            "Rooftop bar",
+            "Metro nearby",
+            "Private & shared rooms"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 131.3
+      },
+      {
+        "day_number": 2,
+        "date": "2026-11-07",
+        "theme": "Neighborhood Wandering, Local Coffee & Art",
+        "morning": [
+          {
+            "id": "7cee3f26",
+            "time_slot": "morning",
+            "title": "Musée d'Orsay",
+            "description": "Impressionist masterpiece collection housed in a beaux-arts railway station",
+            "location": "7th Arrondissement",
+            "category": "culture",
+            "estimated_cost": 11.7,
+            "duration_hours": 2.0,
+            "travel_tip": "Check out the giant station clock face view"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "8f04c8b8",
+            "time_slot": "afternoon",
+            "title": "Seine River Cruise",
+            "description": "Relaxing twilight glass-canopy boat ride along iconic bridges",
+            "location": "Pont Neuf",
+            "category": "leisure",
+            "estimated_cost": 13.0,
+            "duration_hours": 2.0,
+            "travel_tip": "Ideal right at dusk for the hourly Eiffel sparkle"
+          }
+        ],
+        "evening": [
+          {
+            "id": "80927693",
+            "time_slot": "evening",
+            "title": "Le Marais Historic Walk",
+            "description": "Trendy district of aristocratic mansions, boutiques, and bakeries",
+            "location": "4th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Stop for fresh falafel at L'As du Fallafel"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Chez Janou",
+            "cuisine": "Provençal Bistro",
+            "price_range": "$$",
+            "description": "Vibrant spot near Place des Vosges serving unlimited chocolate mousse",
+            "recommended_dish": "Herb-crusted Rack of Lamb & Chocolate Mousse",
+            "meal_type": "lunch"
+          },
+          {
+            "name": "Le Jules Verne",
+            "cuisine": "Haute French Gastronomy",
+            "price_range": "$$$$",
+            "description": "Michelin-starred dining on the second tier of the Eiffel Tower",
+            "recommended_dish": "Langoustine & Truffled Foie Gras",
+            "meal_type": "dinner"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Generator Paris Hostel & Suites",
+          "type": "Boutique Designer Hostel",
+          "neighborhood": "Canal Saint-Martin",
+          "nightly_rate_est": 65.0,
+          "features": [
+            "Rooftop bar",
+            "Metro nearby",
+            "Private & shared rooms"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 118.95
+      },
+      {
+        "day_number": 3,
+        "date": "2026-11-08",
+        "theme": "Panoramic Viewpoints & Hidden Gems",
+        "morning": [
+          {
+            "id": "d5d3fb68",
+            "time_slot": "morning",
+            "title": "Sainte-Chapelle & Conciergerie",
+            "description": "Stunning 13th-century Gothic chapel with radiant stained glass",
+            "location": "Île de la Cité",
+            "category": "culture",
+            "estimated_cost": 9.75,
+            "duration_hours": 2.0,
+            "travel_tip": "Visit on a sunny day for breathtaking light rays"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "53179e3b",
+            "time_slot": "afternoon",
+            "title": "Eiffel Tower & Champ de Mars",
+            "description": "Iconic iron tower with panoramic city vistas",
+            "location": "7th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 22.75,
+            "duration_hours": 2.0,
+            "travel_tip": "Arrive early morning to beat the queues"
+          }
+        ],
+        "evening": [
+          {
+            "id": "591299ec",
+            "time_slot": "evening",
+            "title": "Louvre Museum",
+            "description": "World-renowned museum housing the Mona Lisa and Venus de Milo",
+            "location": "1st Arrondissement",
+            "category": "culture",
+            "estimated_cost": 14.3,
+            "duration_hours": 2.5,
+            "travel_tip": "Pre-book timed entry ticket online"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Le Comptoir du Relais",
+            "cuisine": "Classic French Bistro",
+            "price_range": "$$",
+            "description": "Atmospheric Saint-Germain bistro renowned for seasonal charcuterie & duck confit",
+            "recommended_dish": "Duck Confit with Crispy Potatoes",
+            "meal_type": "dinner"
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "cuisine": "Artisan Parisian Bakery",
+            "price_range": "$",
+            "description": "Historic 1875 bakery famous for escargot pastries and crusty sourdough",
+            "recommended_dish": "Pistachio & Chocolate Escargot Viennoiserie",
+            "meal_type": "breakfast"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Generator Paris Hostel & Suites",
+          "type": "Boutique Designer Hostel",
+          "neighborhood": "Canal Saint-Martin",
+          "nightly_rate_est": 65.0,
+          "features": [
+            "Rooftop bar",
+            "Metro nearby",
+            "Private & shared rooms"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 141.05
+      }
+    ],
+    "cost_breakdown": {
+      "accommodations": 195.0,
+      "dining": 87.75,
+      "activities": 108.55,
+      "local_transit": 29.25,
+      "total": 420.55,
+      "currency": "USD"
+    },
+    "status": "saved",
+    "created_at": "2026-10-28T15:14:04.777733",
+    "updated_at": "2026-10-28T15:14:04.777751"
+  },
+  {
+    "id": "029e94a1-9a45-4d85-8c45-9938936a29a4",
+    "title": "Friends Multi-Day Expedition: Tokyo",
+    "destination": "Tokyo",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-17",
+    "total_days": 3,
+    "traveler_type": "group",
+    "group_size": 4,
+    "budget_tier": "moderate",
+    "pace": "moderate",
+    "interests": [
+      "Adventure"
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-11-15",
+        "theme": "Alternative Discovery: Hidden tea houses & photography",
+        "morning": [
+          {
+            "id": "ab14b870",
+            "time_slot": "morning",
+            "title": "Akihabara Electric Town",
+            "description": "Capital of tech, retro gaming, anime, and manga culture",
+            "location": "Chiyoda City",
+            "category": "leisure",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.0,
+            "travel_tip": "Explore Mandarake and retro arcade buildings"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "4fe02613",
+            "time_slot": "afternoon",
+            "title": "Tsukiji Outer Market Food Tour",
+            "description": "Legendary lively market stalls with fresh sushi and tamagoyaki",
+            "location": "Chuo City",
+            "category": "dining",
+            "estimated_cost": 25.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Bring cash for street food vendors"
+          }
+        ],
+        "evening": [
+          {
+            "id": "b6eda812",
+            "time_slot": "evening",
+            "title": "Sensō-ji Temple & Asakusa",
+            "description": "Tokyo's oldest and most significant Buddhist temple",
+            "location": "Taito City",
+            "category": "culture",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.0,
+            "travel_tip": "Wander through Nakamise-dori market early"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Ichiran Shibuya",
+            "cuisine": "Tonkotsu Ramen",
+            "price_range": "$",
+            "description": "Individual focus-dining booths with custom flavor intensity",
+            "recommended_dish": "Classic Tonkotsu Ramen with half-boiled egg",
+            "meal_type": "lunch"
+          },
+          {
+            "name": "Gonpachi Nishi-Azabu",
+            "cuisine": "Edo Izakaya & Robata",
+            "price_range": "$$",
+            "description": "Atmospheric wooden izakaya that inspired the Kill Bill tavern scene",
+            "recommended_dish": "Charcoal-grilled Yakitori & Soba Noodles",
+            "meal_type": "dinner"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Hotel Gracery Shinjuku",
+          "type": "Mid-Scale City Hotel",
+          "neighborhood": "Kabukicho, Shinjuku",
+          "nightly_rate_est": 170.0,
+          "features": [
+            "Godzilla terrace",
+            "Direct subway link",
+            "City views"
+          ]
+        },
+        "logistics_notes": "Refreshed schedule: pedestrian-friendly sequence with minimal transit transfers.",
+        "estimated_daily_cost": 450.0
+      },
+      {
+        "day_number": 2,
+        "date": "2026-11-16",
+        "theme": "Iconic Landmarks & Shared High-Energy Adventures",
+        "morning": [
+          {
+            "id": "8e5845ab",
+            "time_slot": "morning",
+            "title": "Meiji Jingu Shrine & Harajuku",
+            "description": "Serene cedar forest shrine in the heart of the metropolis",
+            "location": "Shibuya",
+            "category": "culture",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Write your wish on an ema wooden plaque"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "d3290054",
+            "time_slot": "afternoon",
+            "title": "TeamLab Planets",
+            "description": "Immersive body-interactive digital art museum",
+            "location": "Toyosu",
+            "category": "adventure",
+            "estimated_cost": 34.0,
+            "duration_hours": 3.0,
+            "travel_tip": "Wear pants that can be rolled up above your knees"
+          }
+        ],
+        "evening": [
+          {
+            "id": "6767ddbb",
+            "time_slot": "evening",
+            "title": "Akihabara Electric Town",
+            "description": "Capital of tech, retro gaming, anime, and manga culture",
+            "location": "Chiyoda City",
+            "category": "leisure",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Explore Mandarake and retro arcade buildings"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Daiwa Sushi",
+            "cuisine": "Omakase Sushi",
+            "price_range": "$$$",
+            "description": "Daily auction-fresh fish hand-crafted right before your eyes",
+            "recommended_dish": "Chef's Seasonal 7-Piece Omakase",
+            "meal_type": "breakfast"
+          },
+          {
+            "name": "Kagurazaka Ishikawa",
+            "cuisine": "Kaiseki Ryori",
+            "price_range": "$$$$",
+            "description": "3-Michelin-starred serene Japanese seasonal tasting dining",
+            "recommended_dish": "Charcoal-grilled Sweetfish & Wagyu",
+            "meal_type": "dinner"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Hotel Gracery Shinjuku",
+          "type": "Mid-Scale City Hotel",
+          "neighborhood": "Kabukicho, Shinjuku",
+          "nightly_rate_est": 170.0,
+          "features": [
+            "Godzilla terrace",
+            "Direct subway link",
+            "City views"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 656.0
+      },
+      {
+        "day_number": 3,
+        "date": "2026-11-17",
+        "theme": "Cultural Immersion & Team Scenic Walk",
+        "morning": [
+          {
+            "id": "e1e225ee",
+            "time_slot": "morning",
+            "title": "Tsukiji Outer Market Food Tour",
+            "description": "Legendary lively market stalls with fresh sushi and tamagoyaki",
+            "location": "Chuo City",
+            "category": "dining",
+            "estimated_cost": 25.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Bring cash for street food vendors"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "16b9c37f",
+            "time_slot": "afternoon",
+            "title": "Sensō-ji Temple & Asakusa",
+            "description": "Tokyo's oldest and most significant Buddhist temple",
+            "location": "Taito City",
+            "category": "culture",
+            "estimated_cost": 0.0,
+            "duration_hours": 3.0,
+            "travel_tip": "Wander through Nakamise-dori market early"
+          }
+        ],
+        "evening": [
+          {
+            "id": "de3b1827",
+            "time_slot": "evening",
+            "title": "Shibuya Sky & Crossing",
+            "description": "World's busiest pedestrian crossing with a 360-degree open-air observation deck",
+            "location": "Shibuya",
+            "category": "sightseeing",
+            "estimated_cost": 22.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Time your visit for the sunset glow over Mt. Fuji"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Ichiran Shibuya",
+            "cuisine": "Tonkotsu Ramen",
+            "price_range": "$",
+            "description": "Individual focus-dining booths with custom flavor intensity",
+            "recommended_dish": "Classic Tonkotsu Ramen with half-boiled egg",
+            "meal_type": "lunch"
+          },
+          {
+            "name": "Gonpachi Nishi-Azabu",
+            "cuisine": "Edo Izakaya & Robata",
+            "price_range": "$$",
+            "description": "Atmospheric wooden izakaya that inspired the Kill Bill tavern scene",
+            "recommended_dish": "Charcoal-grilled Yakitori & Soba Noodles",
+            "meal_type": "dinner"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Hotel Gracery Shinjuku",
+          "type": "Mid-Scale City Hotel",
+          "neighborhood": "Kabukicho, Shinjuku",
+          "nightly_rate_est": 170.0,
+          "features": [
+            "Godzilla terrace",
+            "Direct subway link",
+            "City views"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 708.0
+      }
+    ],
+    "cost_breakdown": {
+      "accommodations": 1020.0,
+      "dining": 540.0,
+      "activities": 424.0,
+      "local_transit": 180.0,
+      "total": 2164.0,
+      "currency": "USD"
+    },
+    "status": "saved",
+    "created_at": "2026-10-28T15:00:59.982642",
+    "updated_at": "2026-10-28T15:00:59.982652"
+  },
+  {
+    "id": "39545a5f-26ea-43c5-bbe4-81463f921b35",
+    "title": "Solo Explorer: Paris Weekend Getaway",
+    "destination": "Paris",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-08",
+    "total_days": 3,
+    "traveler_type": "solo",
+    "group_size": 1,
+    "budget_tier": "budget",
+    "pace": "fast-paced",
+    "interests": [
+      "Sightseeing",
+      "Food & Dining"
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-11-06",
+        "theme": "Quick Highlights & Top Must-See Sightseeing",
+        "morning": [
+          {
+            "id": "4ecea50b",
+            "time_slot": "morning",
+            "title": "Eiffel Tower & Champ de Mars",
+            "description": "Iconic iron tower with panoramic city vistas",
+            "location": "7th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 22.75,
+            "duration_hours": 2.0,
+            "travel_tip": "Arrive early morning to beat the queues"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "6ee2b908",
+            "time_slot": "afternoon",
+            "title": "Louvre Museum",
+            "description": "World-renowned museum housing the Mona Lisa and Venus de Milo",
+            "location": "1st Arrondissement",
+            "category": "culture",
+            "estimated_cost": 14.3,
+            "duration_hours": 2.0,
+            "travel_tip": "Pre-book timed entry ticket online"
+          }
+        ],
+        "evening": [
+          {
+            "id": "17f90898",
+            "time_slot": "evening",
+            "title": "Montmartre & Sacré-Cœur",
+            "description": "Charming hilltop artistic district with cobblestone streets",
+            "location": "18th Arrondissement",
+            "category": "culture",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Watch out for street portrait artists and take the funicular"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Le Comptoir du Relais",
+            "cuisine": "Classic French Bistro",
+            "price_range": "$$",
+            "description": "Atmospheric Saint-Germain bistro renowned for seasonal charcuterie & duck confit",
+            "recommended_dish": "Duck Confit with Crispy Potatoes",
+            "meal_type": "dinner"
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "cuisine": "Artisan Parisian Bakery",
+            "price_range": "$",
+            "description": "Historic 1875 bakery famous for escargot pastries and crusty sourdough",
+            "recommended_dish": "Pistachio & Chocolate Escargot Viennoiserie",
+            "meal_type": "breakfast"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Generator Paris Hostel & Suites",
+          "type": "Boutique Designer Hostel",
+          "neighborhood": "Canal Saint-Martin",
+          "nightly_rate_est": 65.0,
+          "features": [
+            "Rooftop bar",
+            "Metro nearby",
+            "Private & shared rooms"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 131.3
+      },
+      {
+        "day_number": 2,
+        "date": "2026-11-07",
+        "theme": "Neighborhood Wandering, Local Coffee & Art",
+        "morning": [
+          {
+            "id": "bf2fdfa4",
+            "time_slot": "morning",
+            "title": "Musée d'Orsay",
+            "description": "Impressionist masterpiece collection housed in a beaux-arts railway station",
+            "location": "7th Arrondissement",
+            "category": "culture",
+            "estimated_cost": 11.7,
+            "duration_hours": 2.0,
+            "travel_tip": "Check out the giant station clock face view"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "1c99e666",
+            "time_slot": "afternoon",
+            "title": "Seine River Cruise",
+            "description": "Relaxing twilight glass-canopy boat ride along iconic bridges",
+            "location": "Pont Neuf",
+            "category": "leisure",
+            "estimated_cost": 13.0,
+            "duration_hours": 2.0,
+            "travel_tip": "Ideal right at dusk for the hourly Eiffel sparkle"
+          }
+        ],
+        "evening": [
+          {
+            "id": "0500badb",
+            "time_slot": "evening",
+            "title": "Le Marais Historic Walk",
+            "description": "Trendy district of aristocratic mansions, boutiques, and bakeries",
+            "location": "4th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 0.0,
+            "duration_hours": 2.5,
+            "travel_tip": "Stop for fresh falafel at L'As du Fallafel"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Chez Janou",
+            "cuisine": "Provençal Bistro",
+            "price_range": "$$",
+            "description": "Vibrant spot near Place des Vosges serving unlimited chocolate mousse",
+            "recommended_dish": "Herb-crusted Rack of Lamb & Chocolate Mousse",
+            "meal_type": "lunch"
+          },
+          {
+            "name": "Le Jules Verne",
+            "cuisine": "Haute French Gastronomy",
+            "price_range": "$$$$",
+            "description": "Michelin-starred dining on the second tier of the Eiffel Tower",
+            "recommended_dish": "Langoustine & Truffled Foie Gras",
+            "meal_type": "dinner"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Generator Paris Hostel & Suites",
+          "type": "Boutique Designer Hostel",
+          "neighborhood": "Canal Saint-Martin",
+          "nightly_rate_est": 65.0,
+          "features": [
+            "Rooftop bar",
+            "Metro nearby",
+            "Private & shared rooms"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 118.95
+      },
+      {
+        "day_number": 3,
+        "date": "2026-11-08",
+        "theme": "Panoramic Viewpoints & Hidden Gems",
+        "morning": [
+          {
+            "id": "859a05da",
+            "time_slot": "morning",
+            "title": "Sainte-Chapelle & Conciergerie",
+            "description": "Stunning 13th-century Gothic chapel with radiant stained glass",
+            "location": "Île de la Cité",
+            "category": "culture",
+            "estimated_cost": 9.75,
+            "duration_hours": 2.0,
+            "travel_tip": "Visit on a sunny day for breathtaking light rays"
+          }
+        ],
+        "afternoon": [
+          {
+            "id": "eb4ff2e1",
+            "time_slot": "afternoon",
+            "title": "Eiffel Tower & Champ de Mars",
+            "description": "Iconic iron tower with panoramic city vistas",
+            "location": "7th Arrondissement",
+            "category": "sightseeing",
+            "estimated_cost": 22.75,
+            "duration_hours": 2.0,
+            "travel_tip": "Arrive early morning to beat the queues"
+          }
+        ],
+        "evening": [
+          {
+            "id": "262e7805",
+            "time_slot": "evening",
+            "title": "Louvre Museum",
+            "description": "World-renowned museum housing the Mona Lisa and Venus de Milo",
+            "location": "1st Arrondissement",
+            "category": "culture",
+            "estimated_cost": 14.3,
+            "duration_hours": 2.5,
+            "travel_tip": "Pre-book timed entry ticket online"
+          }
+        ],
+        "dining_recommendations": [
+          {
+            "name": "Le Comptoir du Relais",
+            "cuisine": "Classic French Bistro",
+            "price_range": "$$",
+            "description": "Atmospheric Saint-Germain bistro renowned for seasonal charcuterie & duck confit",
+            "recommended_dish": "Duck Confit with Crispy Potatoes",
+            "meal_type": "dinner"
+          },
+          {
+            "name": "Du Pain et des Idées",
+            "cuisine": "Artisan Parisian Bakery",
+            "price_range": "$",
+            "description": "Historic 1875 bakery famous for escargot pastries and crusty sourdough",
+            "recommended_dish": "Pistachio & Chocolate Escargot Viennoiserie",
+            "meal_type": "breakfast"
+          }
+        ],
+        "accommodation_suggestion": {
+          "name": "Generator Paris Hostel & Suites",
+          "type": "Boutique Designer Hostel",
+          "neighborhood": "Canal Saint-Martin",
+          "nightly_rate_est": 65.0,
+          "features": [
+            "Rooftop bar",
+            "Metro nearby",
+            "Private & shared rooms"
+          ]
+        },
+        "logistics_notes": "Convenient walking route between sights; metro/cab recommended for evening return.",
+        "estimated_daily_cost": 141.05
+      }
+    ],
+    "cost_breakdown": {
+      "accommodations": 195.0,
+      "dining": 87.75,
+      "activities": 108.55,
+      "local_transit": 29.25,
+      "total": 420.55,
+      "currency": "USD"
+    },
+    "status": "saved",
+    "created_at": "2026-10-28T14:58:58.616565",
+    "updated_at": "2026-10-28T14:58:58.616580"
+  }
+]
