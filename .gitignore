@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Frontend builds & caches
+frontend/dist/
+frontend/.vite/
+dist/
+.cache/
+
+# Environment and sensitive keys
+.env
+.env.local
+.env.*.local
+*.env
+
+# Local database & temp data
+backend/data/*.json
+!backend/data/trips.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
